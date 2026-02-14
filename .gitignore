@@ -1,6 +1,8 @@
 *.o
 dump1090
+dump1090_test
 testfiles/*.bin
 misc
 frames.js
 .*.swp
+test_output.txt
